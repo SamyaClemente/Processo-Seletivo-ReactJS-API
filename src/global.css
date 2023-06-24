@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+body{
+  background: linear-gradient(to bottom, rgb(3, 36, 58), rgb(17, 84, 129));
+  color: aliceblue;
+}
