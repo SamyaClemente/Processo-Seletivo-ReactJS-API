@@ -5,6 +5,7 @@
   font-family: "Inter", sans-serif;
 }
 body{
-  background: linear-gradient(to bottom, rgb(3, 36, 58), rgb(17, 84, 129));
+  background-color: rgb(70, 73, 75);
   color: aliceblue;
 }
+
