@@ -5,9 +5,9 @@
 O projeto se trata de uma atividade criada para participar do processo seletivo da App Masters. O objetivo é simples: consumir de uma API de jogos para exibir os itens na tela e também dar a opção do usuário pesquisar e filtrar os jogos por gênero.
 
 ## Tecnologias Usadas
-> ReactJS 
-> Typescript
-> Material UI
+* ReactJS 
+* Typescript
+* Material UI
 
 ## Links
 * Projeto no GitHub:
